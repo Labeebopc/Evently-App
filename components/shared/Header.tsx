@@ -35,7 +35,6 @@ const Header = () => {
                     </SignedOut>
                 </div>
             </div>
-            Header
         </header>
     )
 }
